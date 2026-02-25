@@ -26,12 +26,12 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="assets/hero-section.png" alt="Hero" width="90%" />
+  <img src="hero-section.png" alt="Hero" width="90%" />
 </p>
 <p align="center">
-  <img src="assets/learning-tracks.png" alt="Learning Tracks" width="45%" />
+  <img src="learning-tracks.png" alt="Learning Tracks" width="45%" />
   &nbsp;
-  <img src="assets/dashboard.png" alt="Dashboard" width="45%" />
+  <img src="dashboard.png" alt="Dashboard" width="45%" />
 </p>
 
 ---
