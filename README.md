@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="PromptMaster Pro Banner" width="100%" />
+  <img src="assets/banner.jpg" alt="PromptMaster Pro Banner" width="100%" />
 </p>
 
 <h1 align="center">🚀 PromptMaster Pro</h1>
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/learning-tracks.png" alt="Learning Tracks" width="90%" />
+  <img src="assets/learning-tracks.jpg" alt="Learning Tracks" width="90%" />
   <br/><em>Five mastery paths — from prompt fundamentals to production AI systems</em>
 </p>
 
@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/pricing.png" alt="Pricing" width="90%" />
+  <img src="assets/pricing.jpg" alt="Pricing" width="90%" />
   <br/><em>Clean pricing page with feature comparison & bonus stack</em>
 </p>
 
