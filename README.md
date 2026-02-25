@@ -54,7 +54,7 @@
 
 ## 🌐 Live Demo
 
-> **[Visit PromptMaster Pro →](https://promptmasterpro.com)**
+> **[Visit PromptMaster Pro →](https://promptmasterpro.tech)**
 
 Experience the full platform live. The first 4 modules, Prompt Playground, Glossary, and Cheat Sheet are **completely free** — no credit card required.
 
